@@ -1,10 +1,12 @@
 # ecommerce-site-adv
 
 Frontend:
-- HTML/CSS, JS, React
+- HTML/CSS, Next.js
 
 Backend:
-- Python(Django), MySQL, REST
+- Python, Django, Django REST framework, MySQL
 
-Additional:
-- Telegram API
+Дополнительно:
+
+ 1) Telegram API - Для обработки заказов(переадресация)
+
