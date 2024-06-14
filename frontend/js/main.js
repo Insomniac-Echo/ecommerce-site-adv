@@ -1,8 +1,8 @@
 // Пример данных товаров
 const products = [
-	{ id: 1, name: 'Product 1', description: 'Description for product 1', price: 10, image: 'https://via.placeholder.com/150' },
-	{ id: 2, name: 'Product 2', description: 'Description for product 2', price: 20, image: 'https://via.placeholder.com/150' },
-	{ id: 3, name: 'Product 3', description: 'Description for product 3', price: 30, image: 'https://via.placeholder.com/150' },
+	{ id: 1, name: 'Product 1', description: 'Description for product 1', price: 10, image: 'https://yobte.ru/uploads/posts/2019-11/zhenskie-popy-77-foto-11.jpg' },
+	{ id: 2, name: 'Product 2', description: 'Description for product 2', price: 20, image: 'https://goliedevushki.club/uploads/posts/2022-10/1666108362_35-goliedevushki-pro-p-erotika-chlena-20sm-58.jpg' },
+	{ id: 3, name: 'Product 3', description: 'Description for product 3', price: 30, image: 'https://static.independent.co.uk/2021/07/17/10/Excav1.jpg?width=982&height=726&auto=webp&quality=75' },
 ];
 
 // Функция для отображения товаров на странице продуктов
